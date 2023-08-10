@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Welcome to your new dbt project-feature development -start
+=======
+Welcome to your new dbt project-feature development --start--test
+>>>>>>> feature_dev
 
 ### Using the starter project
 
